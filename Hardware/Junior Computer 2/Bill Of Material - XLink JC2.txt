@@ -1,0 +1,24 @@
+
+Ref	Product		Package	Value				Distri	Order-Code
+
+R1	Resistor	0603	1M, 1/10W,1%			LCSC	C22935
+R2	Resistor	0603	10k, 1/10W, 1%			LCSC	C25804
+R3	Resistor	0603	1k0, 1/10W, 1%			LCSC	C21190
+R4	Resistor	0603	180R, 1/10W, 1%			LCSC	C22828
+
+RN1	R-Network	1206	470R *4				LCSC	C1731350
+RN2	R-Network	1206	470R *4				LCSC	C1731350
+
+C1	Capacitor	0603	4.7nF/50V, X7R, MLCC		LCSC	C106218
+C2	Capacitor	0603	100nF/50V, X7R, MLCC		LCSC	C14663
+C3	Capacitor	0603	100nF/50V, X7R, MLCC		LCSC	C14663
+C4	Capacitor	0603	1.0µF/50V, X7R, MLCC		LCSC	C559769
+
+D1	Diode		0603	CD4148WTP			LCSC	C109002
+
+U1	Microcontroller	TSSOP20	CH552T				LCSC	C111367
+
+J1	USB-Connector	-	Micro-B 2.0, Female		LCSC	C10418
+J5	Connector	-	Con 2.54mm Female, angled, 2x8P	LCSC	C2936005
+
+PCB	1,6mm / 2 Layers					JLCPCB
